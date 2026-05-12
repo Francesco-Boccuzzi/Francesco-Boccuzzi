@@ -7,8 +7,7 @@
 <br>
 ⚡ Developing fun and useful full-stack applications
 
-<br><br>
-
+<br>
 🎾 Tennis • 🎬 Cinema • ⚽ SE Palmeiras • 🥩 Brazilian Barbecues
 <br>
 🇺🇸 English • 🇵🇹 Português • 🇪🇸 Español
