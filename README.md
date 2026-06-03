@@ -3,7 +3,7 @@
 <br>
 🎓 BA in Mathematics & MS in Computer Science @ Northwestern University
 <br>
-💻 Interested in ML, HCI and CS Theory
+💻 Interested in ML, AI and CS Theory
 <br>
 ⚡ Developing fun and useful full-stack applications
 
